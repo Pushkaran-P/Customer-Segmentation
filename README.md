@@ -1,11 +1,12 @@
-# Customer-Segmentation
+# Customer Segmentation and Market Basket Analysis for Online Retail Store
 
-Customer Segmentation and Market Basket Analysis, developed using Python, involves classification of customers in an Online Retail Store and study of their granular purchase behaviour. Helpful in devising strategies which uncovers deeper understanding of purchase decisions taken by the customers, determine appropriate product pricing and recommend as well.
+ - Objective: The goal of this project is to classify customers of an Online Retail Store and study their granular purchase behavior using Python. By analyzing customer segmentation and market basket data, we aim to devise strategies that uncover a deeper understanding of purchase decisions, determine appropriate product pricing, and make recommendations.
 
-- Data Import and Processing
-- Exploratory Data Analysis
-- Cohort Analysis
-- RFM Analysis
-- K-Means Clustering
-- Association Rule Mining
-- Recommendation
+ - Methodology: The project will involve the following steps:
+   - Data Import and Processing
+   - Exploratory Data Analysis
+   - Cohort Analysis
+   - RFM Analysis
+   - K-Means Clustering
+   - Association Rule Mining
+   - Recommendation
